@@ -11,14 +11,14 @@
     "updatedAt": "2026-08-21T18:34:31.880Z"
   },
   {
-    "contestRating": null,
     "date": "2026-08-22",
-    "easySolved": 120,
-    "globalRank": 1135871,
-    "hardSolved": 5,
-    "mediumSolved": 28,
-    "streak": 58,
     "totalSolved": 153,
-    "updatedAt": "2026-08-22T20:59:11.181Z"
+    "easySolved": 120,
+    "mediumSolved": 28,
+    "hardSolved": 5,
+    "globalRank": 1135871,
+    "contestRating": null,
+    "streak": 58,
+    "updatedAt": "2026-08-22T21:02:13.116Z"
   }
 ]
