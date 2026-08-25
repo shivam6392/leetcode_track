@@ -42,5 +42,16 @@
     "streak": 60,
     "totalSolved": 160,
     "updatedAt": "2026-08-24T19:55:06.503Z"
+  },
+  {
+    "contestRating": null,
+    "date": "2026-08-25",
+    "easySolved": 125,
+    "globalRank": 1070813,
+    "hardSolved": 5,
+    "mediumSolved": 30,
+    "streak": 60,
+    "totalSolved": 160,
+    "updatedAt": "2026-08-25T03:40:07.228Z"
   }
 ]
